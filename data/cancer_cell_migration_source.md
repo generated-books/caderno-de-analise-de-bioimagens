@@ -1,0 +1,3 @@
+Esta é uma parte recortada (em `x`, `y` e `t`) do conjunto de dados de migração de células cancerosas de [Tinevez, J. & Guillaume Jacquemet, G.](https://zenodo.org/record/5206107#.ZFthHnZBxPa) licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+Para o resultado correspondente de Voronoi-Otsu-Labeling, foi utilizado o [napari-pyclesperanto-assistant](https://github.com/clEsperanto/napari_pyclesperanto_assistant) com `spot_sigma = 5` e `outline_sigma = 3`
