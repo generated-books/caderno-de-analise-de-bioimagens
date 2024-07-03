@@ -1,0 +1,3 @@
+# Visualização de dados
+
+Após as medições das características terem sido extraídas, plotadas e analisadas usando estatísticas descritivas, a visualização das medições no sistema de coordenadas e no espaço da imagem bruta pode ser útil para entender melhor a organização espacial das células e tecidos. Neste capítulo, aprenderemos métodos para visualizar medições no mesmo espaço que nossos dados brutos, como sobreposição e lado a lado.
