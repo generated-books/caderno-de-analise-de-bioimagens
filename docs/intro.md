@@ -132,24 +132,42 @@ Caso você esteja interessado em tópicos específicos, você pode encontrar mat
 
 Se você quiser discutir lições neste livro Jupyter, tiver feedback e/ou sugestões, por favor abra uma discussão em [image.sc](https://image.sc/) e marque @haesleinhuepf.
 
-## Agradecimentos
+## Agradecimentos / Acknowledgements
 
-Também agradecemos aos autores que compartilharam seus materiais de ensino abertamente para que pudéssemos reutilizá-los e modificá-los:
+We also thank authors who shared their teaching materials openly so that we could reuse and modify them:
 * Anna Poetsch, Biotec, TU Dresden
-* Dominik Waithe, Universidade de Oxford
-* Guillaume Witz, Universidade de Berna
+* Dominik Waithe, University of Oxford
+* Guillaume Witz, University of Bern
 * Johannes Müller, PoL, TU Dresden
 * Laura Žigutytė, PoL, TU Dresden
-* Pete Bankhead, Universidade de Edimburgo
+* Pete Bankhead, University of Edinburgh
 * Ryan George Savill, MPI-CBG Dresden / PoL, TU Dresden
 
-Queremos reconhecer as pessoas que produziram as imagens que estamos usando para fins de demonstração neste livro Jupyter.
+We want to acknowledge the people who produced the images we are using for demonstration purposes in this Jupyter book.
 * Alba Villaronga Luque, MPI-CBG Dresden
-* Alexandr Khrapichev, Universidade de Oxford, Reino Unido
-* Anne Carpenter, Instituto Broad, Boston, MA, Estados Unidos
-* Anne Esslinger, Laboratório Alberti, MPI-CBG, Alemanha
-* Daniela Vorkel, Laboratório Myers, MPI-CBG / CSBD, Dresden, Alemanha
-* David Legland, INRAE, UR BIA, Nantes, França
-* Jean-Karim Hériché, Unidade de Biologia Celular/Biofísica, EMBL Heidelberg, Alemanha
+* Alexandr Khrapichev, University of Oxford, UK
+* Anne Carpenter, Broad Institute, Boston, MA, United States
+* Anne Esslinger, Alberti Lab, MPI-CBG, Germany
+* Daniela Vorkel, Myers Lab, MPI-CBG / CSBD, Dresden, Germany
+* David Legland, INRAE, UR BIA, Nantes, France
+* Jean-Karim Hériché, Cell Biology/Biophysics Unit, EMBL Heidelberg, Germany
 * Jesse Veenvliet, MPI-CBG Dresden
-* Mauricio Rocha
+* Mauricio Rocha Martins, Norden Lab, MPI-CBG, Germany
+* Nasreddin Abolmaali, OncoRay, TU Dresden, Germany
+* Sascha M. Kuhn, Nadler Lab, MPI-CBG Dresden, Germany
+* Theresa Suckert, OncoRay, University Hospital Carl Gustav Carus, TU Dresden
+* Tony Collins, the creator of ImageJ for Microscopy
+
+
+We acknowledge support by the Deutsche Forschungsgemeinschaft under Germany’s Excellence Strategy—EXC2068–Cluster of Excellence Physics of Life of TU Dresden.
+This project has been made possible in part by grant numbers 2021-240341, 2021-237734 and 2022-252520 from the Chan Zuckerberg Initiative DAF, an advised fund of the Silicon Valley Community Foundation.
+We acknowledge the financial support by the Federal Ministry of Education and Research of Germany and by Sächsische Staatsministerium für Wissenschaft, Kultur und Tourismus in the programme Center of Excellence for AI-research „Center for Scalable Data Analytics and Artificial Intelligence Dresden/Leipzig“, project identification number: ScaDS.AI
+
+## License
+
+All contents of this Jupyter book and the corresponding Github repository are licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) and 
+BSD3 by the [authors and contributors](https://github.com/haesleinhuepf/BioImageAnalysisNotebooks/contributors), unless mentioned otherwise.
+
+## Contributing
+
+Please see our [CONTRIBUTING](https://github.com/haesleinhuepf/BioImageAnalysisNotebooks/blob/main/CONTRIBUTING.md) guide for details.
